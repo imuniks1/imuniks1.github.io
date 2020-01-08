@@ -1,0 +1,821 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Название</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/slick.css">
+    <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+    <link rel="stylesheet" href="css/style.min.css">
+    <link rel="stylesheet" href="css/media.min.css">
+</head>
+<body>
+<header class="header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 d-flex align-items-center">
+                <ul class="d-flex header-menu">
+                    <li class="header-menu__el">
+                        <a href="javascript:void(0)" class="header-menu__link">
+                            Язык:
+                            <span class="header-menu__txt">Русский</span>
+                        </a>
+                        <div class="header-menu-drop">
+                            <span class="header-menu__val">Українська</span>
+                            <span class="header-menu__val">English</span>
+                            <span class="header-menu__val">Deutsch</span>
+                        </div>
+                    </li>
+                    <li class="header-menu__el">
+                        <a href="javascript:void(0)" class="header-menu__link">
+                            Валюта:
+                            <span class="header-menu__txt">UAH</span>
+                        </a>
+                        <div class="header-menu-drop">
+                            <span class="header-menu__val">RUB</span>
+                            <span class="header-menu__val">USD</span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-8 menu-nav d-flex align-items-center justify-content-end">
+                <ul class="menu-nav-list  d-flex">
+                    <li class="menu-nav__el">
+                        <a class="menu-nav__txt" href="javascript:void(0)">Регистрация</a>
+                    </li>
+                    <li class="menu-nav__el">
+                        <a class="menu-nav__txt" href="javascript:void(0)">Войти</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</header>
+<section class="main-menu">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="main-menu-logo">
+                    <a href="javascript:void(0)" class="logo">Leo Shop</a>
+                </div>
+            </div>
+            <div class="col-md-5 main-menu-category d-flex align-items-center">
+                <ul class="main-menu__list d-flex">
+                    <li class="main-menu__el">
+                        <a class="main-menu__txt" href="javascript:void(0)">Новинки</a>
+                    </li>
+                    <li class="main-menu__el">
+                        <a class="main-menu__txt main-menu__txt_active" href="javascript:void(0)">Женщинам</a>
+                    </li>
+                    <li class="main-menu__el">
+                        <a  class="main-menu__txt" href="javascript:void(0)">Мужчинам</a>
+                    </li>
+                    <li class="main-menu__el">
+                        <a  class="main-menu__txt" href="javascript:void(0)">Акссесуары</a>
+                    </li>
+                    <li class="main-menu__el">
+                        <a  class="main-menu__txt" href="javascript:void(0)">Обувь</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-4 d-flex align-items-center main-menu-search">
+                <input type="text" class="input-search" placeholder="Поиск">
+                <button class="button-search"><img src="images/search-btn.png" alt=""></button>
+                <div class="main-menu-basket d-flex">
+                    <a class="main-menu-item d-flex align-items-center justify-content-center" href="javascript:void(0)">
+                        <img src="images/img-cabinet1.png" alt="">
+                    </a>
+                    <a class="main-menu-item d-flex align-items-center justify-content-center" href="javascript:void(0)">
+                        <img src="images/img-cabinet2.png" alt="">
+                    </a>
+                </div>
+                <a class="main-menu-cart" href="javascript:void(0)">Корзина (0)</a>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="main-bn">
+    <div class="main-bn-slider gallery-slick">
+        <div class="main-bn-slide">
+            <img class="img-slider" src="images/background4.jpg" alt="">
+        </div>
+        <div class="main-bn-slide">
+            <img class="img-slider" src="images/background.jpg" alt="">
+        </div>
+        <div class="main-bn-slide">
+            <img class="img-slider" src="images/background3.jpg" alt="">
+        </div>
+        <div class="main-bn-slide">
+            <img class="img-slider" src="images/background1.jpg" alt="">
+        </div>
+    </div>
+</section>
+<section class="content">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 filter">
+                <span class="filter__txt">Фильтры</span>
+                <div class="filter-box">
+                    <a class="filter__title">Размер</a>
+                    <ul class="filter-box_holder">
+                        <li class="filter__el-size">32/XSS</li>
+                        <li class="filter__el-size">34/XS</li>
+                        <li class="filter__el-size">36/S</li>
+                        <li class="filter__el-size">38/M</li>
+                        <li class="filter__el-size">40/L</li>
+                        <li class="filter__el-size">42/XL</li>
+                        <li class="filter__el-size">44/XXL</li>
+                        <li class="filter__el-size">One size</li>
+                        <li class="filter__el-size">Другой</li>
+                    </ul>
+                </div>
+                <div class="filter-box">
+                    <a class="filter__title">Цена</a>
+                    <ul class="filter-box_holder filter-box__price_holder">
+                        <li class="filter__el-price">
+                            <input id="cost-range-1" class="filter__el-price-input filter__el-price-input_none" type="checkbox">
+                            <label class="label-price" for="cost-range-1">От 100 до 300 грн</label>
+                        </li>
+                        <li class="filter__el-price">
+                            <input id="cost-range-2" class="filter__el-price-input filter__el-price-input_none" type="checkbox">
+                            <label class="label-price" for="cost-range-2">От 300 до 500 грн</label>
+                        </li>
+                        <li class="filter__el-price">
+                            <input id="cost-range-3" class="filter__el-price-input filter__el-price-input_none" type="checkbox">
+                            <label class="label-price" for="cost-range-3">От 500 до 1000 грн</label>
+                        </li>
+                        <li class="filter__el-price">
+                            <input id="cost-range-4" class="filter__el-price-input filter__el-price-input_none" type="checkbox">
+                            <label class="label-price" for="cost-range-4">Более 1000 грн</label>
+                        </li>
+                        <li class="filter__el-price">
+                            <input class="filter__el-price-input" type="text" pattern="[0-9]{4}" placeholder="От" onkeypress="if(this.value.length&gt;3) return false">
+                        </li>
+                        <li class="filter__el-price">
+                            <input class="filter__el-price-input" type="text" pattern="[0-9]{4}" placeholder="До" onkeypress="if(this.value.length&gt;3) return false">
+                        </li>
+                    </ul>
+                </div>
+                <div class="filter-box">
+                    <a class="filter__title">Цвет</a>
+                    <ul class="filter-box_holder">
+                        <li class="filter__color">
+                            <input id="color-1" class="filter__el-color" type="checkbox">
+                            <label for="color-1" class="filter__el-color_label"></label>
+                        </li>
+                        <li class="filter__color">
+                            <input id="color-2" class="filter__el-color" type="checkbox">
+                            <label for="color-2" class="filter__el-color_label"></label>
+                        </li>
+                        <li class="filter__color">
+                            <input id="color-3" class="filter__el-color" type="checkbox">
+                            <label for="color-3" class="filter__el-color_label"></label>
+                        </li>
+                        <li class="filter__color">
+                            <input id="color-4" class="filter__el-color" type="checkbox">
+                            <label for="color-4" class="filter__el-color_label"></label>
+                        </li>
+                        <li class="filter__color">
+                            <input id="color-5" class="filter__el-color" type="checkbox">
+                            <label for="color-5" class="filter__el-color_label"></label>
+                        </li>
+                        <li class="filter__color">
+                            <input id="color-6" class="filter__el-color" type="checkbox">
+                            <label for="color-6" class="filter__el-color_label"></label>
+                        </li>
+                        <li class="filter__color">
+                            <input id="color-7" class="filter__el-color" type="checkbox">
+                            <label for="color-7" class="filter__el-color_label"></label>
+                        </li>
+                        <li class="filter__color">
+                            <input id="color-8" class="filter__el-color" type="checkbox">
+                            <label for="color-8" class="filter__el-color_label"></label>
+                        </li>
+                        <li class="filter__color">
+                            <input id="color-9" class="filter__el-color" type="checkbox">
+                            <label for="color-9" class="filter__el-color_label"></label>
+                        </li>
+                        <li class="filter__color">
+                            <input id="color-10" class="filter__el-color" type="checkbox">
+                            <label for="color-10" class="filter__el-color_label"></label>
+                        </li>
+                        <li class="filter__color">
+                            <input id="color-12" class="filter__el-color" type="checkbox">
+                            <label for="color-12" class="filter__el-color_label"></label>
+                        </li>
+                        <li class="filter__color">
+                            <input id="color-13" class="filter__el-color" type="checkbox">
+                            <label for="color-13" class="filter__el-color_label"></label>
+                        </li>
+                        <li class="filter__color">
+                            <input id="color-14" class="filter__el-color" type="checkbox">
+                            <label for="color-14" class="filter__el-color_label"></label>
+                        </li>
+                        <li class="filter__color">
+                            <input id="color-15" class="filter__el-color" type="checkbox">
+                            <label for="color-15" class="filter__el-color_label"></label>
+                        </li>
+                        <li class="filter__color">
+                            <input id="color-16" class="filter__el-color" type="checkbox">
+                            <label for="color-16" class="filter__el-color_label"></label>
+                        </li>
+                        <li class="filter__color">
+                            <input id="color-17" class="filter__el-color" type="checkbox">
+                            <label for="color-17" class="filter__el-color_label"></label>
+                        </li>
+                        <li class="filter__color">
+                            <input id="color-18" class="filter__el-color" type="checkbox">
+                            <label for="color-18" class="filter__el-color_label"></label>
+                        </li>
+                        <li class="filter__color">
+                            <input id="color-19" class="filter__el-color" type="radio">
+                            <label for="color-19" class="filter__el-color_label"></label>
+                        </li>
+                    </ul>
+                </div>
+                <div class="filter-box">
+                    <a class="filter__title">Бренд</a>
+                    <ul class="filter-box_holder filter-box__price_holder">
+                        <li class="filter__el-brand">
+                            <input class="filter__el-price-input" type="text" maxlength="15">
+                        </li>
+                        <li class="filter__el-brand">
+                            <input id="brand-1" class="filter__el-price-input filter__el-price-input_none" type="checkbox">
+                            <label class="label-price" for="brand-1">ZARA</label>
+                        </li>
+                        <li class="filter__el-brand">
+                            <input id="brand-2" class="filter__el-price-input filter__el-price-input_none" type="checkbox">
+                            <label class="label-price" for="brand-2">Bershka</label>
+                        </li>
+                        <li class="filter__el-brand">
+                            <input id="brand-3" class="filter__el-price-input filter__el-price-input_none" type="checkbox">
+                            <label class="label-price" for="brand-3">Mango</label>
+                        </li>
+                        <li class="filter__el-brand">
+                            <input id="brand-4" class="filter__el-price-input filter__el-price-input_none" type="checkbox">
+                            <label class="label-price" for="brand-4">Pull&Bear</label>
+                        </li>
+                        <li class="filter__el-brand">
+                            <input id="brand-5" class="filter__el-price-input filter__el-price-input_none" type="checkbox">
+                            <label class="label-price" for="brand-5">H&M</label>
+                        </li>
+                        <li class="filter__el-brand">
+                            <input id="brand-6" class="filter__el-price-input filter__el-price-input_none" type="checkbox">
+                            <label class="label-price" for="brand-6">Cropp</label>
+                        </li>
+                        <li class="filter__el-brand">
+                            <input id="brand-7" class="filter__el-price-input filter__el-price-input_none" type="checkbox">
+                            <label class="label-price" for="brand-7">Stradivarius</label>
+                        </li>
+                        <li class="filter__el-brand">
+                            <input id="brand-8" class="filter__el-price-input filter__el-price-input_none" type="checkbox">
+                            <label class="label-price" for="brand-8">Levi's</label>
+                        </li>
+                        <li class="filter__el-brand">
+                            <input id="brand-9" class="filter__el-price-input filter__el-price-input_none" type="checkbox">
+                            <label class="label-price" for="brand-9">Tommy Hilfiger</label>
+                        </li>
+                        <li class="filter__el-brand">
+                            <input id="brand-10" class="filter__el-price-input filter__el-price-input_none" type="checkbox">
+                            <label class="label-price" for="brand-10">POLO</label>
+                        </li>
+                    </ul>
+                </div>
+                <div class="filter-box">
+                    <a class="filter__title">Город</a>
+                    <ul class="filter-box_holder filter-box_scroll">
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Винница</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Днепр</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Житомир</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Запорожье</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Ивано-Франковск</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Кропивницкий</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Луганск</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Луцк</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Львов</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Николаев</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Одесса</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Полтава</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Ровно</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Сумы</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Тернополь</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Ужгород</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Харьков</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Херсон</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Хмельницкий</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Черкассы</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Чернигов</a>
+                        </li>
+                        <li class="filter__el-city">
+                            <a class="filter__city-txt" href="javascript:void(0)">Черновцы</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-9 catalog">
+                <span class="catalog__title">Платья - <span class="catalog__title_count">812 вещей</span></span>
+                <ul class="catalog__subcategories d-flex row">
+                    <li class="catalog__subcategories-el col-md-4">
+                        <a class="catalog__subcategories-txt" href="javascript:void(0)">Короткие платья</a><span class="catalog__subcategories-el_counter">399 вещей</span>
+                    </li>
+                    <li class="catalog__subcategories-el col-md-4">
+                        <a class="catalog__subcategories-txt" href="javascript:void(0)">Вечерние платья </a><span class="catalog__subcategories-el_counter">125 вещей</span>
+                    </li>
+                    <li class="catalog__subcategories-el col-md-4">
+                        <a class="catalog__subcategories-txt" href="javascript:void(0)">Длинные платья</a> <span class="catalog__subcategories-el_counter">144 вещей</span>
+                    </li>
+                    <li class="catalog__subcategories-el col-md-4">
+                        <a class="catalog__subcategories-txt" href="javascript:void(0)">Свадебные патья</a><span class="catalog__subcategories-el_counter">52 вещей</span>
+                    </li>
+                    <li class="catalog__subcategories-el col-md-4">
+                        <a class="catalog__subcategories-txt" href="javascript:void(0)">Сарафаны</a><span class="catalog__subcategories-el_counter">92 вещей</span>
+                    </li>
+                </ul>
+                <div class="catalog__sorting row">
+                    <div class="offset-md-8">
+                        <span class="catalog__sorting-txt">Сортировать:</span>
+                        <select class="catalog__sorting_select" name="sorting">
+                            <option class="catalog__sorting-el" value="1">по популярности</option>
+                            <option class="catalog__sorting-el" value="2">по дате добавления</option>
+                            <option class="catalog__sorting-el" value="3">от дешевых к дорогим</option>
+                            <option class="catalog__sorting-el" value="4">от дорогих к дешевым</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="row catalog-items">
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/img-1.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <div class="catalog-item__label">
+                                    <span class="catalog-item__label-el">Топ</span>
+                                </div>
+                                <span class="catalog-item__brand">ZARA</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">1200 грн</span>
+                                <span class="catalog-item__price_old">1800 грн</span>
+                                <span class="catalog-item__size">34/XS</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/43992088.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <div class="catalog-item__label">
+                                    <span class="catalog-item__label-el">Топ</span>
+                                </div>
+                                <span class="catalog-item__brand">Bershka</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">799 грн</span>
+                                <span class="catalog-item__price_old">1100 грн</span>
+                                <span class="catalog-item__size">36/S</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/107255069.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <div class="catalog-item__label">
+                                    <span class="catalog-item__label-el">Топ</span>
+                                </div>
+                                <span class="catalog-item__brand">H&M</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">999 грн</span>
+                                <span class="catalog-item__price_old">1400 грн</span>
+                                <span class="catalog-item__size">38/M</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/49872631.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <div class="catalog-item__label">
+                                    <span class="catalog-item__label-el">Топ</span>
+                                </div>
+                                <span class="catalog-item__brand">ZARA</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">879 грн</span>
+                                <span class="catalog-item__price_old">1200 грн</span>
+                                <span class="catalog-item__size">42/XL</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row catalog-items">
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/58282085.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <div class="catalog-item__label">
+                                    <span class="catalog-item__label-el">Топ</span>
+                                </div>
+                                <span class="catalog-item__brand">Pull&Bear</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">1099 грн</span>
+                                <span class="catalog-item__price_old">1499 грн</span>
+                                <span class="catalog-item__size">36/S</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/94818088_310_430.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <div class="catalog-item__label">
+                                    <span class="catalog-item__label-el">Топ</span>
+                                </div>
+                                <span class="catalog-item__brand">Mango</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">869 грн</span>
+                                <span class="catalog-item__price_old">1259 грн</span>
+                                <span class="catalog-item__size">32/XSS</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/90587976.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <div class="catalog-item__label">
+                                    <span class="catalog-item__label-el">Топ</span>
+                                </div>
+                                <span class="catalog-item__brand">ZARA</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">1100 грн</span>
+                                <span class="catalog-item__price_old">1800 грн</span>
+                                <span class="catalog-item__size">34/XS</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/107347059.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <span class="catalog-item__brand">ZARA</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">899 грн</span>
+                                <span class="catalog-item__price_old">1299 грн</span>
+                                <span class="catalog-item__size">36/S</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row catalog-items">
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/101641138.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <span class="catalog-item__brand">Mango</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">749 грн</span>
+                                <span class="catalog-item__price_old">1600 грн</span>
+                                <span class="catalog-item__size">42/XL</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/102588195.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <span class="catalog-item__brand">Pull&Bear</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">659 грн</span>
+                                <span class="catalog-item__price_old">999 грн</span>
+                                <span class="catalog-item__size">40/L</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/102745815.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <span class="catalog-item__brand">Stradivarius</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">759 грн</span>
+                                <span class="catalog-item__price_old">1200 грн</span>
+                                <span class="catalog-item__size">34/XS</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/107260195.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <span class="catalog-item__brand">Bershka</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">599 грн</span>
+                                <span class="catalog-item__price_old">999 грн</span>
+                                <span class="catalog-item__size">36/S</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row catalog-items">
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/107402829.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <span class="catalog-item__brand">Pull&Bear</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">1499 грн</span>
+                                <span class="catalog-item__size">38/M</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/106965050.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <span class="catalog-item__brand">Cropp</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">1100 грн</span>
+                                <span class="catalog-item__size">38/M</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/107203413.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <div class="catalog-item__label">
+                                </div>
+                                <span class="catalog-item__brand">ZARA</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">699 грн</span>
+                                <span class="catalog-item__size">36/S</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/img-5.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <div class="catalog-item__label">
+                                </div>
+                                <span class="catalog-item__brand">Mango</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">899 грн</span>
+                                <span class="catalog-item__size">36/S</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row catalog-items">
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/img-4.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <span class="catalog-item__brand">Pull&Bear</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">1499 грн</span>
+                                <span class="catalog-item__size">38/M</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/img-6.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <span class="catalog-item__brand">Cropp</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">1200 грн</span>
+                                <span class="catalog-item__size">38/M</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/107223850.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <span class="catalog-item__brand">Pull&Bear</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">999грн</span>
+                                <span class="catalog-item__size">36/S</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/img-7.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <span class="catalog-item__brand">Mango</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">849 грн</span>
+                                <span class="catalog-item__size">34/XS</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row catalog-items">
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/img-10.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <span class="catalog-item__brand">Cropp</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">899 грн</span>
+                                <span class="catalog-item__size">36/S</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/img-11.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <span class="catalog-item__brand">Pull&Bear</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">959 грн</span>
+                                <span class="catalog-item__size">34/XS</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/img-16.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <span class="catalog-item__brand">Mango</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">899 грн</span>
+                                <span class="catalog-item__size">36/S</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="catalog-item">
+                            <img class="catalog-item__img" src="images/img-17.jpg" alt="">
+                            <div class="catalog-item__labels">
+                                <span class="catalog-item__brand">Mango</span>
+                            </div>
+                            <div class="catalog-item__caption">
+                                <span class="catalog-item__price">1099 грн</span>
+                                <span class="catalog-item__size">42/XL</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 ">
+                    <ul class="catalog-pagination d-flex justify-content-center">
+                        <li class="catalog-pagination__el active">
+                            <a class="catalog-pagination__txt" href="javascript:void(0)">1</a>
+                        </li>
+                        <li class="catalog-pagination__el">
+                            <a class="catalog-pagination__txt" href="javascript:void(0)">2</a>
+                        </li>
+                        <li class="catalog-pagination__el">
+                            <a class="catalog-pagination__txt" href="javascript:void(0)">3</a>
+                        </li>
+                        <li class="catalog-pagination__el">
+                            <a class="catalog-pagination__txt" href="javascript:void(0)">4</a>
+                        </li>
+                        <li class="catalog-pagination__el catalog-pagination__el-next">
+                            <a class="catalog-pagination__txt" href="javascript:void(0)">Следуйщая страница</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<footer class="footer">
+    <div class="footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <span class="footer__copy-txt">&copy; 2019 <a class="footer__logo-link" href="javascript:void(0)">Leo Shop</a></span>
+                    <span class="footer__txt">Модная женская одежда и аксессуары по доступной цене. Все права защищены</span>
+                </div>
+                <div class="col-md-4 d-flex footer-list justify-content-between">
+                    <ul class="footer-list__column">
+                        <li class="footer-list__el">
+                            <a class="footer-list__el-txt" href="javascript:void(0)">Работа в Leo Shop</a>
+                        </li>
+                        <li class="footer-list__el">
+                            <a class="footer-list__el-txt" href="javascript:void(0)">Наш блог</a>
+                        </li>
+                        <li class="footer-list__el">
+                            <a class="footer-list__el-txt" href="javascript:void(0)">Как это работает?</a>
+                        </li>
+                    </ul>
+                    <ul class="footer-list__column">
+                        <li class="footer-list__el">
+                            <a class="footer-list__el-txt" href="javascript:void(0)">Политика конфиденциальности</a>
+                        </li>
+                        <li class="footer-list__el">
+                            <a class="footer-list__el-txt" href="javascript:void(0)">Договор-оферта</a>
+                        </li>
+                        <li class="footer-list__el">
+                            <a class="footer-list__el-txt" href="javascript:void(0)">Контакты</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-1">
+                    <ul class="footer-social__list">
+                        <li class="footer-social__el">
+                            <a href="javascript:void(0)">
+                                <img class="footer-social__img" src="images/soc-1.png" alt="">
+                            </a>
+                        </li>
+                        <li class="footer-social__el">
+                            <a href="javascript:void(0)">
+                                <img class="footer-social__img"  src="images/soc-3.png" alt="">
+                            </a>
+                        </li>
+                        <li class="footer-social__el">
+                            <a href="javascript:void(0)">
+                                <img class="footer-social__img" src="images/soc-7.png" alt="">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div class="up">
+    <button class="btn-up"></button>
+</div>
+<div class="modal register-modal">
+    <div class="modal-body flex-center-x flex-center-y">
+        <div class="modal-content">
+            <span class="modal-title">Регистрация</span>
+            <a href="javascript:void(0)" class="modal-close">X</a>
+        </div>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="js/slick.min.js"></script>
+<script src="js/jquery.mCustomScrollbar.min.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
