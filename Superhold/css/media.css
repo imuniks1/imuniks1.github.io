@@ -1,0 +1,475 @@
+ @media (min-width: 1900px) {
+}    
+@media (max-width: 1199px) {
+    .logo {
+        margin: 10px 20px 0 0;
+        width:200px;
+    }
+    .nav li {
+        padding: 0 32px;
+        font-size: 16px;
+    }
+    .header-inner .holder span {
+        font-size: 14px;
+        margin: 0 0 0 7px;
+    }
+    .main-form-holder span {
+        font-size: 26px;
+    }
+    .main-form-holder span span {
+        font-size: 32px;
+    }
+    .main-top .main-form-holder {
+        height: 230px;
+    }
+    .main-top {
+        height: 520px;
+    }
+    .title-tech {
+        font-size: 26px;
+    }
+    .tech-holder > div > .circle,
+    .tech-holder > div:nth-child(2) > .circle,
+    .tech-holder > div:nth-child(3) > .circle,
+    .tech-holder > div:nth-child(4) > .circle {
+        width:100%;
+        height: 212px;
+        font-size: 21px;
+        padding: 85px 0 0 0;
+        background-size: 212px 212px;
+    }
+    .copy {
+        margin: 0 20px 0 0;
+    }
+    .footer-list li {
+        padding: 15px 10px;
+    }
+    .footer-list {
+        padding: 0 10px;
+    }
+    .contacts-phone {
+        font-size: 35px;
+        line-height: 49px;
+    }
+    .contacts-phone a {
+        line-height: 49px;
+        display: inline-block;
+    }
+    .contacts {
+        padding: 40px 0;
+    }
+    .photo-box {
+        width:100%;
+        max-width: 350px;
+    }
+    .storage-num {
+        font-size: 38px;
+        word-spacing: 0;
+    }
+    .storage-num span {
+        font-size: 32px;
+    }
+    .storage-text,
+    .storage-temp {
+        font-size: 18px;
+    }
+    .storage-list li:last-child .storage-text {
+        font-size: 22px;
+        line-height: 26px;
+        margin: 50px 0 10px;
+    }
+    .control-box {
+        height: 250px;
+        padding: 50px 5px 0 5px;
+        margin: 0 0 20px 0;
+    }
+    .control-box span {
+        font-size: 16px;
+    }
+}
+@media (max-width:991px) {
+    .header-inner .holder {
+        padding: 0;
+        margin: 0;
+    }
+    .logo {
+        display: block;
+        float: none;
+        margin: 0 auto;
+        width:80%;
+        max-width: 329px;
+    }
+    .header-holder {
+        float: none;
+    }
+    .header-inner {
+        background: none;
+        padding: 5px 0;
+        height: auto;
+    }
+    .header-inner .holder {
+        height: auto;
+        margin: 0;
+        padding: 0;
+    }
+    .header-inner .holder span {
+        float: none;
+        display: block;
+        text-align: center;
+        margin: 0;
+    }
+    .header-inner .holder span.header-phone {
+        float: none;
+        display: block;
+        margin: 0;
+    }
+    .nav li {
+        padding: 0 35px;
+    }
+    .main-form-holder span {
+        font-size: 22px;
+    }
+    .main-form-holder span span {
+        font-size: 24px;
+    }
+    .main-top {
+        height: 450px;
+    }
+    .main-top .main-form-holder {
+        height: 210px;
+    }
+    .form-input {
+        font-size: 15px;
+    }
+    .send-form {
+        font-size: 15px;
+        background: url(../images/send-arrow.png) no-repeat 95% 50%;
+    }
+    .title-box {
+        font-size: 35px;
+    }
+    .catalog-bot span {
+        font-size: 18px;
+    }
+    .title-tech {
+        font-size: 22px;
+    }
+    .tech-holder > div > .circle, .tech-holder > div:nth-child(2) > .circle, .tech-holder > div:nth-child(3) > .circle, .tech-holder > div:nth-child(4) > .circle {
+        margin: 0 auto 10px;
+        width: 250px;
+        height: 250px;
+        padding: 95px 0 0 0;
+        font-size: 24px;
+        background-size: 250px 250px;
+    }
+    .copy {
+        margin: 0 20px 0 0;
+    }
+    .footer-list {
+        padding: 0 10px;
+    }
+    .footer-list li {
+        padding: 15px 10px;
+    }
+    .soc-footer {
+        float: none;
+        overflow: hidden;
+        margin: 0 auto 0;
+        padding: 10px 0;
+        width:225px;
+    }
+}
+@media (max-width: 767px) {
+    .logo {
+        display: block;
+        float: none;
+        margin: 0 auto;
+        width:80%;
+        max-width: 329px;
+    }
+    .header-holder {
+        float: none;
+    }
+    .header-inner {
+        background: none;
+        padding: 5px 0;
+        height: auto;
+    }
+    .header-inner .holder {
+        height: auto;
+        margin: 0;
+        padding: 0;
+    }
+    .header-inner .holder span {
+        float: none;
+        display: block;
+        text-align: center;
+        margin: 0;
+    }
+    .header-inner .holder span.header-phone {
+        float: none;
+        display: block;
+        margin: 0;
+    }
+    .navbar-nav {
+        margin: 0;
+    }
+    .nav li {
+        background: #f4f4f4;
+        margin: 0;
+        border-top: 1px solid #d6d6d6;
+    }
+    .nav li.active a {
+        border: none;
+    }
+    .nav li:last-child {
+        border-bottom: 1px solid #d6d6d6;
+        border-top: 1px solid #d6d6d6;
+    }
+    .nav li:last-child {
+        padding: 0 0 0 35px;
+    }
+    .navbar-nav > li:first-child {
+        line-height: 30px;
+        padding: 0 0 0 35px;
+    }
+    .nav li a {
+        border: none;
+    }
+    .navbar {
+        margin: 0;
+    }
+    .main-top {
+        height: 400px;
+    }
+    .main-top .main-form-holder {
+        height: 400px;
+    }
+    .main-form-holder span {
+        font-size: 18px;
+    }
+    .main-form-holder span span {
+        font-size: 21px;
+    }
+    .main-form-holder form > div {
+        margin: 5px 0;
+    }
+    .benefits-list {
+        margin: 24px 0 0 0;
+    }
+    .benefits {
+        margin: 30px 0 0;
+    }
+    .title-holder {
+        padding: 0 10px;
+    }
+    .title-box {
+        font-size: 25px;
+        padding: 0 0 10px 0;
+    }
+    .title-border {
+        width:200px;
+    }
+    .benefit-img {
+        float: none;
+        margin: 0 auto 5px;
+        width:60px;
+        height: 60px;
+    }
+    .benefits-list li .inner {
+        float: none;
+        width:100%;
+    }
+    .benefits-title {
+        font-size: 21px;
+        text-align: center;
+    }
+    .benefits-text {
+        font-size: 14px;
+        text-align: center;
+    }
+    .benefits-list li{
+        width:45%;
+        margin: 0 0 20px 0;
+        height: 217px;
+    }
+    .benefits-list li:nth-child(2n) {
+        width:45%;
+        margin: 0 0 20px 5%;
+    }
+    .catalog-row > div {
+        margin: 10px 0;
+    }
+    .catalog-row a img {
+        max-width: 370px;
+        margin: 0 auto;
+    }
+    .catalog-bot span {
+        text-align: center;
+        margin: 0 0 5px 0;
+        font-size: 16px;
+    }
+    .catalog-row {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .button {
+        max-width: 320px;
+        width:80%;
+        margin: 5px auto;
+    }
+    .catalog-bot {
+        margin: 0;
+    }
+    .catalog {
+        padding: 10px 0 15px 0;
+    }
+    .title-tech {
+        font-size: 20px;
+    }
+    .tech-text {
+        font-size: 14px;
+        text-align: center;
+        display: block;
+    }
+    .tech-holder > div > .circle, .tech-holder > div:nth-child(2) > .circle, .tech-holder > div:nth-child(3) > .circle, .tech-holder > div:nth-child(4) > .circle {
+        margin: 10px auto;
+        width: 250px;
+        height: 250px;
+        padding: 95px 0 0 0;
+        font-size: 24px;
+        background-size: 250px 250px;
+    }
+    .technologies {
+        padding: 20px 0 35px;
+    }
+    .contacts {
+        padding: 20px 0;
+    }
+    .phone-text {
+        font-size: 18px;
+        margin: 0 0 20px 0;
+    }
+    .contacts-phone {
+        font-size: 20px;
+        line-height: 49px;
+    }
+    .contacts-phone a {
+        display: inline-block;
+    }
+    .contacts-more {
+        font-size: 16px;
+    }
+    .copy {
+        float: none;
+        display: block;
+        text-align: center;
+        margin: 0;
+    }
+    .footer-list {
+        padding: 0 5px;
+        text-align: center;
+    }
+    .footer-list li {
+        float: none;
+        display: inline-block;
+    }
+    .soc-footer {
+        float: none;
+        overflow: hidden;
+        margin: 10px auto 0;
+        width:225px;
+    }
+    .catalog-row {
+        margin: 15px 0;
+    }
+    .send-form {
+        background: none;
+    }
+    .photo-box {
+        width:100%;
+        max-width: 370px;
+    }
+    .system-tech {
+        overflow-x: scroll;
+    }
+    .title-page {
+        font-size: 24px;
+        text-align: center;
+    }
+    .service-list li {
+        width:100%;
+        margin: 0 0 20px 0;
+    }
+    .service-list li span {
+        width:75%;
+        margin: 0 0 0 20px !important;
+    }
+    .service-list li:nth-child(2n) {
+        margin: 0 0 20px 0;
+    }
+    .product-benefit span {
+        font-size: 14px;
+        margin: 0 0 0 15px;;
+        padding: 0 0 0 50px;
+    }
+    .control-box {
+        height: 240px;
+        padding: 35px 0 0 0;
+        margin: 0 0 20px 0;
+    }
+    .storage-num {
+        font-size: 22px;
+        word-spacing: 0;
+        line-height: 65px;
+    }
+    .storage-num span {
+        font-size: 18px;
+    }
+    .storage-list {
+        text-align: center;
+        border: none;
+    }
+    .storage-list li {
+        border:1px solid #d6d6d6;
+        margin: 5px 0;
+        vertical-align: middle;
+        width:33%;
+        height: 172px;
+        display: inline-block;
+        float: none;
+        padding: 0;
+        overflow: hidden;
+    }
+    .storage-list li:first-child {
+        border:1px solid #d6d6d6;
+    }
+    .storage-num sup {font-size: 14px;}
+    .storage-text,
+    .storage-temp {
+        font-size: 14px;
+        padding: 0 3px;
+    }
+    .storage-list li:last-child .storage-text {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .tech-table span {
+        font-size: 14px;
+    }
+}
+@media (max-width:380px) {
+    .service-list li {
+        height: auto;
+    }
+    .contacts-form .send-form-holder .send-form,
+    .contacts-form .send-form-holder {
+        width:290px;
+    }
+}
+@media print and (color) {
+    * {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+}
