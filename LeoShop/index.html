@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="ru">
 <head>
     <title>Название</title>
     <meta charset="UTF-8">
@@ -14,8 +14,8 @@
 <body>
 <header class="header">
     <div class="container">
-        <div class="row">
-            <div class="col-md-4 d-flex align-items-center">
+        <div class="row d-flex justify-content-between">
+            <div class="align-items-center">
                 <ul class="d-flex header-menu">
                     <li class="header-menu__el">
                         <a href="javascript:void(0)" class="header-menu__link">
@@ -40,9 +40,9 @@
                     </li>
                 </ul>
             </div>
-            <div class="col-md-8 menu-nav d-flex align-items-center justify-content-end">
-                <ul class="menu-nav-list  d-flex">
-                    <li class="menu-nav__el">
+            <div>
+                <ul class="menu-nav-list d-flex">
+                    <li class="menu-nav__el d-sm-flex d-none">
                         <a class="menu-nav__txt" href="javascript:void(0)">Регистрация</a>
                     </li>
                     <li class="menu-nav__el">
@@ -57,12 +57,12 @@
     <div class="container">
         <div class="row">
             <div class="col-md-3">
-                <div class="main-menu-logo">
+                <div class="main-menu-logo d-flex justify-content-between">
                     <a href="javascript:void(0)" class="logo">Leo Shop</a>
                 </div>
             </div>
-            <div class="col-md-5 main-menu-category d-flex align-items-center">
-                <ul class="main-menu__list d-flex">
+            <div class="col-md-5 main-menu-category d-flex align-items-center justify-content-sm-center">
+                <ul class="main-menu__list d-none d-sm-flex">
                     <li class="main-menu__el">
                         <a class="main-menu__txt" href="javascript:void(0)">Новинки</a>
                     </li>
@@ -80,18 +80,44 @@
                     </li>
                 </ul>
             </div>
-            <div class="col-md-4 d-flex align-items-center main-menu-search">
-                <input type="text" class="input-search" placeholder="Поиск">
-                <button class="button-search"><img src="images/search-btn.png" alt=""></button>
+            <div class="col-md-4 d-flex align-items-center justify-content-between justify-content-sm-center main-menu-search">
+                <button class="btn-burger  d-sm-none">
+                    <span class="btn-burger__line"></span>
+                    <span class="btn-burger__line"></span>
+                    <span class="btn-burger__line"></span>
+                    <div class="main-menu-category">
+                        <ul class="main-menu__list text-center">
+                            <li class="main-menu__el">
+                                <a class="main-menu__txt" href="javascript:void(0)">Новинки</a>
+                            </li>
+                            <li class="main-menu__el">
+                                <a class="main-menu__txt" href="javascript:void(0)">Женщинам</a>
+                            </li>
+                            <li class="main-menu__el">
+                                <a  class="main-menu__txt" href="javascript:void(0)">Мужчинам</a>
+                            </li>
+                            <li class="main-menu__el">
+                                <a  class="main-menu__txt" href="javascript:void(0)">Акссесуары</a>
+                            </li>
+                            <li class="main-menu__el">
+                                <a  class="main-menu__txt" href="javascript:void(0)">Обувь</a>
+                            </li>
+                        </ul>
+                    </div>
+                </button>
+                <div class="wrapper-search">
+                    <input type="text" class="input-search" placeholder="Поиск">
+                    <button class="button-search"><img src="images/search-btn.png" alt=""></button>
+                </div>
                 <div class="main-menu-basket d-flex">
-                    <a class="main-menu-item d-flex align-items-center justify-content-center" href="javascript:void(0)">
+                    <a class="main-menu-item d-sm-flex align-items-center justify-content-center d-none" href="javascript:void(0)">
                         <img src="images/img-cabinet1.png" alt="">
                     </a>
                     <a class="main-menu-item d-flex align-items-center justify-content-center" href="javascript:void(0)">
                         <img src="images/img-cabinet2.png" alt="">
                     </a>
+                    <a class="main-menu-cart d-flex align-items-center" href="javascript:void(0)">Корзина (0)</a>
                 </div>
-                <a class="main-menu-cart" href="javascript:void(0)">Корзина (0)</a>
             </div>
         </div>
     </div>
@@ -122,7 +148,7 @@
                     <ul class="filter-box_holder">
                         <li class="filter__el-size">32/XSS</li>
                         <li class="filter__el-size">34/XS</li>
-                        <li class="filter__el-size">36/S</li>
+                        <li class="filter__el-size active">36/S</li>
                         <li class="filter__el-size">38/M</li>
                         <li class="filter__el-size">40/L</li>
                         <li class="filter__el-size">42/XL</li>
@@ -374,8 +400,8 @@
                         <a class="catalog__subcategories-txt" href="javascript:void(0)">Сарафаны</a><span class="catalog__subcategories-el_counter">92 вещей</span>
                     </li>
                 </ul>
-                <div class="catalog__sorting row">
-                    <div class="offset-md-8">
+                <div class="catalog__sorting d-flex">
+                    <div class="d-flex ml-auto">
                         <span class="catalog__sorting-txt">Сортировать:</span>
                         <select class="catalog__sorting_select" name="sorting">
                             <option class="catalog__sorting-el" value="1">по популярности</option>
@@ -385,8 +411,7 @@
                         </select>
                     </div>
                 </div>
-                <div class="row catalog-items">
-                    <div class="col-md-3">
+                <div class="row wrapper-catalog d-flex justify-content-between">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/img-1.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -401,8 +426,6 @@
                                 <span class="catalog-item__size">34/XS</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/43992088.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -417,8 +440,6 @@
                                 <span class="catalog-item__size">36/S</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/107255069.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -433,8 +454,6 @@
                                 <span class="catalog-item__size">38/M</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/49872631.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -449,10 +468,6 @@
                                 <span class="catalog-item__size">42/XL</span>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="row catalog-items">
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/58282085.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -467,8 +482,6 @@
                                 <span class="catalog-item__size">36/S</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/94818088_310_430.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -483,8 +496,6 @@
                                 <span class="catalog-item__size">32/XSS</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/90587976.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -499,8 +510,6 @@
                                 <span class="catalog-item__size">34/XS</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/107347059.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -512,10 +521,6 @@
                                 <span class="catalog-item__size">36/S</span>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="row catalog-items">
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/101641138.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -527,8 +532,6 @@
                                 <span class="catalog-item__size">42/XL</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/102588195.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -540,8 +543,6 @@
                                 <span class="catalog-item__size">40/L</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/102745815.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -553,8 +554,6 @@
                                 <span class="catalog-item__size">34/XS</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/107260195.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -566,10 +565,6 @@
                                 <span class="catalog-item__size">36/S</span>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="row catalog-items">
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/107402829.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -580,8 +575,6 @@
                                 <span class="catalog-item__size">38/M</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/106965050.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -592,8 +585,6 @@
                                 <span class="catalog-item__size">38/M</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/107203413.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -606,8 +597,6 @@
                                 <span class="catalog-item__size">36/S</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/img-5.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -620,10 +609,6 @@
                                 <span class="catalog-item__size">36/S</span>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="row catalog-items">
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/img-4.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -634,8 +619,6 @@
                                 <span class="catalog-item__size">38/M</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/img-6.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -646,8 +629,6 @@
                                 <span class="catalog-item__size">38/M</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/107223850.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -658,8 +639,6 @@
                                 <span class="catalog-item__size">36/S</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/img-7.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -670,10 +649,6 @@
                                 <span class="catalog-item__size">34/XS</span>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="row catalog-items">
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/img-10.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -684,8 +659,6 @@
                                 <span class="catalog-item__size">36/S</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/img-11.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -696,8 +669,6 @@
                                 <span class="catalog-item__size">34/XS</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/img-16.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -708,8 +679,6 @@
                                 <span class="catalog-item__size">36/S</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-3">
                         <div class="catalog-item">
                             <img class="catalog-item__img" src="images/img-17.jpg" alt="">
                             <div class="catalog-item__labels">
@@ -722,6 +691,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col-md-12 ">
                     <ul class="catalog-pagination d-flex justify-content-center">
                         <li class="catalog-pagination__el active">
