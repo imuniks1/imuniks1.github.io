@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'SuisseIntl';
+    src: url('../fonts/SuisseIntl - Regular.eot');
+    src: local('../fonts/SuisseIntl - Regular'), local('../fonts/SuisseIntl - Regular'),
+    url('../fonts/SuisseIntl - Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SuisseIntl - Regular.woff') format('woff'),
+    url('../fonts/SuisseIntl - Regular.woff2') format('woff2'),
+    url('../fonts/SuisseIntl - Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SuisseIntl';
+    src: url('../fonts/SuisseIntl - SemiBold.eot');
+    src: local('../fonts/SuisseIntl - SemiBold'), local('../fonts/SuisseIntl - SemiBold'),
+    url('../fonts/SuisseIntl - SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SuisseIntl - SemiBold.woff') format('woff'),
+    url('../fonts/SuisseIntl - SemiBold.woff2') format('woff2'),
+    url('../fonts/SuisseIntl - SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SuisseIntl';
+    src: url('../fonts/SuisseIntl-Light.eot');
+    src: local('../fonts/SuisseIntl-Light'), local('../fonts/SuisseIntl-Light'),
+    url('../fonts/SuisseIntl-Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SuisseIntl-Light.woff') format('woff'),
+    url('../fonts/SuisseIntl-Light.woff2') format('woff2'),
+    url('../fonts/SuisseIntl-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
