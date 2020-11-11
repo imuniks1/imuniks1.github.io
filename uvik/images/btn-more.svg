@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <style>
+            .cls-1{fill:#6b6bdb}
+        </style>
+    </defs>
+    <g id="down-to-bottom" transform="rotate(-90 8 8)">
+        <path id="Контур_286" d="M11.013 12.315L6 7.3l.7-.7 4.312 4.312L15.325 6.6l.7.7z" class="cls-1" transform="translate(-2.992 -3.291)"/>
+        <path id="Прямоугольник_728" d="M0 0H12V1H0z" class="cls-1" transform="translate(2 11)"/>
+        <path id="_Transparent_Rectangle_" fill="none" d="M0 0H16V16H0z"/>
+    </g>
+</svg>

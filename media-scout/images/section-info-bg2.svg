@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="665px" height="351px" viewBox="0 0 665 351" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-8.2%" y="-70.3%" width="116.3%" height="240.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.128750817   0 0 0 0 0.197824848   0 0 0 0 0.259539176  0 0 0 0.079572771 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="594" height="69"></rect>
+        <filter x="-8.2%" y="-70.3%" width="116.3%" height="240.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.128750817   0 0 0 0 0.197824848   0 0 0 0 0.259539176  0 0 0 0.079572771 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="594" height="69"></rect>
+        <filter x="-8.2%" y="-70.3%" width="116.3%" height="240.6%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.128750817   0 0 0 0 0.197824848   0 0 0 0 0.259539176  0 0 0 0.079572771 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-8" x="0" y="0" width="594" height="69"></rect>
+        <filter x="-44.5%" y="-173.2%" width="189.0%" height="446.4%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0815262008   0 0 0 0 0.121779031   0 0 0 0 0.152541893  0 0 0 0.140051355 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-44.5%" y="-173.2%" width="189.0%" height="446.4%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0815262008   0 0 0 0 0.121779031   0 0 0 0 0.152541893  0 0 0 0.140051355 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-44.5%" y="-173.2%" width="189.0%" height="446.4%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0815262008   0 0 0 0 0.121779031   0 0 0 0 0.152541893  0 0 0 0.140051355 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-44.5%" y="-173.2%" width="189.0%" height="446.4%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0815262008   0 0 0 0 0.121779031   0 0 0 0 0.152541893  0 0 0 0.140051355 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-44.5%" y="-173.2%" width="189.0%" height="446.4%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0815262008   0 0 0 0 0.121779031   0 0 0 0 0.152541893  0 0 0 0.140051355 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-44.5%" y="-173.2%" width="189.0%" height="446.4%" filterUnits="objectBoundingBox" id="filter-15">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0815262008   0 0 0 0 0.121779031   0 0 0 0 0.152541893  0 0 0 0.140051355 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-44.5%" y="-173.2%" width="189.0%" height="446.4%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0815262008   0 0 0 0 0.121779031   0 0 0 0 0.152541893  0 0 0 0.140051355 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-44.5%" y="-173.2%" width="189.0%" height="446.4%" filterUnits="objectBoundingBox" id="filter-17">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0815262008   0 0 0 0 0.121779031   0 0 0 0 0.152541893  0 0 0 0.140051355 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-35.7%" y="-167.2%" width="171.3%" height="434.5%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0815262008   0 0 0 0 0.121779031   0 0 0 0 0.152541893  0 0 0 0.140051355 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-26.6%" y="-167.2%" width="153.3%" height="434.5%" filterUnits="objectBoundingBox" id="filter-19">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0815262008   0 0 0 0 0.121779031   0 0 0 0 0.152541893  0 0 0 0.140051355 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-26.6%" y="-167.2%" width="153.3%" height="434.5%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0815262008   0 0 0 0 0.121779031   0 0 0 0 0.152541893  0 0 0 0.140051355 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Updated-Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-718.000000, -2665.000000)">
+            <g id="Panel-3" transform="translate(-1.000000, 2470.000000)">
+                <g id="Group-3" transform="translate(719.000000, 195.000000)">
+                    <g id="Graphic">
+                        <rect id="Rectangle" fill="#F8F8FA" x="92" y="17" width="552" height="334"></rect>
+                        <path d="M620.000702,284 L620.744847,284.006297 C645.254051,284.421344 665,305.302191 665,331 L620.001,331 L620.000702,284 Z M619.887368,284.338596 L619.887368,330.660596 L572.887368,330.661404 L572.893665,329.895371 C573.308712,304.665309 594.189559,284.338596 619.887368,284.338596 Z" id="Combined-Shape" fill="#89ABFF"></path>
+                        <g id="Lancey" filter="url(#filter-1)" transform="translate(15.000000, 59.000000)">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <use id="Mask" fill="#FFFFFF" xlink:href="#path-2"></use>
+                        </g>
+                        <g id="Lancey" filter="url(#filter-4)" transform="translate(15.000000, 149.000000)">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <use id="Mask" fill="#FFFFFF" xlink:href="#path-5"></use>
+                        </g>
+                        <g id="Lancey" filter="url(#filter-7)" transform="translate(15.000000, 240.000000)">
+                            <mask id="mask-9" fill="white">
+                                <use xlink:href="#path-8"></use>
+                            </mask>
+                            <use id="Mask" fill="#FFFFFF" xlink:href="#path-8"></use>
+                        </g>
+                        <circle id="Oval" fill="#D9E4FF" cx="14.5" cy="14.5" r="14.5"></circle>
+                    </g>
+                    <g id="Investors-Copy" filter="url(#filter-10)" transform="translate(42.000000, 80.000000)">
+                        <rect id="Rectangle" fill="#ECF2FF" x="3" y="0" width="103" height="28" rx="4"></rect>
+                        <text id="US-based" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#25AEFF">
+                            <tspan x="24.1586914" y="18">Views: All</tspan>
+                        </text>
+                    </g>
+                    <g id="Investors-Copy-4" filter="url(#filter-11)" transform="translate(42.000000, 169.000000)">
+                        <rect id="Rectangle" fill="#ECF2FF" x="3" y="0" width="103" height="28" rx="4"></rect>
+                        <text id="US-based" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#25AEFF">
+                            <tspan x="14.4277344" y="18">Category: All</tspan>
+                        </text>
+                    </g>
+                    <g id="Investors-Copy-8" filter="url(#filter-12)" transform="translate(42.000000, 257.000000)">
+                        <rect id="Rectangle" fill="#ECF2FF" x="3" y="0" width="103" height="28" rx="4"></rect>
+                        <text id="US-based" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#25AEFF">
+                            <tspan x="19.4829102" y="18">Gender: All</tspan>
+                        </text>
+                    </g>
+                    <g id="Investors-Copy-9" filter="url(#filter-13)" transform="translate(183.000000, 257.000000)">
+                        <rect id="Rectangle" fill="#ECF2FF" x="3" y="0" width="103" height="28" rx="4"></rect>
+                        <text id="US-based" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#25AEFF">
+                            <tspan x="27.269043" y="18">Tags: All</tspan>
+                        </text>
+                    </g>
+                    <g id="Investors-Copy-10" filter="url(#filter-14)" transform="translate(322.000000, 257.000000)">
+                        <rect id="Rectangle" fill="#ECF2FF" x="3" y="0" width="103" height="28" rx="4"></rect>
+                        <text id="US-based" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#25AEFF">
+                            <tspan x="21.4345703" y="18">Device: All</tspan>
+                        </text>
+                    </g>
+                    <g id="Investors-Copy-11" filter="url(#filter-15)" transform="translate(462.000000, 257.000000)">
+                        <rect id="Rectangle" fill="#ECF2FF" x="3" y="0" width="103" height="28" rx="4"></rect>
+                        <text id="US-based" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#25AEFF">
+                            <tspan x="16.3657227" y="18">Location: All</tspan>
+                        </text>
+                    </g>
+                    <g id="Investors-Copy-5" filter="url(#filter-16)" transform="translate(178.000000, 169.000000)">
+                        <rect id="Rectangle" fill="#ECF2FF" x="3" y="0" width="103" height="28" rx="4"></rect>
+                        <text id="US-based" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#25AEFF">
+                            <tspan x="8.98974609" y="18">Comments: All</tspan>
+                        </text>
+                    </g>
+                    <g id="Investors-Copy-6" filter="url(#filter-17)" transform="translate(315.000000, 169.000000)">
+                        <rect id="Rectangle" fill="#ECF2FF" x="3" y="0" width="103" height="28" rx="4"></rect>
+                        <text id="US-based" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#25AEFF">
+                            <tspan x="26.4897461" y="18">Likes: All</tspan>
+                        </text>
+                    </g>
+                    <g id="Investors-Copy-7" filter="url(#filter-18)" transform="translate(445.000000, 168.000000)">
+                        <rect id="Rectangle" fill="#ECF2FF" x="3" y="0.0275590551" width="130" height="28" rx="4"></rect>
+                        <text id="US-based" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#25AEFF">
+                            <tspan x="18.9931641" y="18.0275591">Watch Time: All</tspan>
+                        </text>
+                    </g>
+                    <g id="Investors-Copy-2" filter="url(#filter-19)" transform="translate(187.000000, 79.000000)">
+                        <rect id="Rectangle" fill="#ECF2FF" x="3" y="0.286325907" width="176" height="28" rx="4"></rect>
+                        <text id="US-based" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#25AEFF">
+                            <tspan x="20.1796875" y="18.2863259">Audience Segment: All</tspan>
+                        </text>
+                    </g>
+                    <g id="Investors-Copy-3" filter="url(#filter-20)" transform="translate(405.000000, 79.000000)">
+                        <rect id="Rectangle" fill="#ECF2FF" x="3" y="0.286325907" width="176" height="28" rx="4"></rect>
+                        <text id="US-based" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#25AEFF">
+                            <tspan x="23.7070312" y="18.2863259">Watch Time Ratio: All</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

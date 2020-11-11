@@ -1,0 +1,174 @@
+$color-white: #ffffff;
+$color-black: #000000;
+$std-black: #333333;
+$color-red: #9d0017;
+$color-violet: #6b6bdb;
+
+
+
+%absoluteCenterTop {
+  top: 50%;
+  transform: translate(0, -50%);
+}
+%absoluteCenterLeft {
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+%block {
+  display: block !important;
+}
+%transitionStd {
+  transition: all ease .5s;
+}
+%hoverOpacity {
+  opacity: .8;
+}
+%marginAuto {
+  margin: 0 auto;
+}
+
+// mixins
+@mixin content($width, $height, $position) {
+  content: '';
+  display: block;
+  position: $position;
+  width: $width;
+  height: $height;
+}
+@mixin btnStd($width, $height) {
+  width: $width;
+  height: $height;
+  font-size: 15px;
+  display: block;
+  font-family: Helvetica;
+  line-height: $height;
+  padding-left: 16px;
+  background-color: #6b6bdb;
+  border-radius: 3px;
+  letter-spacing: -0.09px;
+  color: $color-white;
+  background-image: url("../images/arrow-btn.svg");
+  background-repeat: no-repeat;
+  background-position: 91% 50%;
+}
+// keyframes
+@keyframes animateArrowBn {
+  0% {
+    transform: translate(0, 0px) scale(1);
+  }
+  50% {
+    transform: translate(0, 10px) scale(1.2);
+  }
+  100% {
+    transform: translate(0, 0px) scale(1);
+  }
+}
+// animation-top
+$value: 0;
+.animation-slide-top {
+  opacity: 0;
+  animation: animateSlideTop 1s ease-in-out forwards;
+  @for $i from 0 through 10 {
+    &—delay-#{$value} {
+      animation-delay: $value + ms
+    }
+    $value: $value + 200;
+  }
+}
+@keyframes animateSlideTop {
+  0% {
+    opacity: 0;
+    transform: translateY(-60px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+// animation-bottom
+.animation-slide-bottom {
+  opacity: 0;
+  animation: animateSlideBottom 1s ease-in-out forwards;
+  @for $i from 0 through 10 {
+    &—delay-#{$value} {
+      animation-delay: $value + ms
+    }
+    $value: $value + 200;
+  }
+}
+@keyframes animateSlideBottom {
+  0% {
+    opacity: 0;
+    transform: translateY(60px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+// animation-slide-left
+.animation-slide-left {
+  opacity: 0;
+  animation: animateSlideLeft 1s ease-in-out forwards;
+  @for $i from 0 through 10 {
+    &—delay-#{$value} {
+      animation-delay: $value + ms
+    }
+    $value: $value + 200;
+  }
+}
+@keyframes animateSlideLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-60px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0px);
+  }
+}
+// animation-opacity
+.animation-opacity {
+  opacity: 0;
+  animation: animationOpacity 1s ease-in-out forwards;
+}
+@keyframes animationOpacity {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes builtAnimate {
+  0% {
+    transform: translate(350px, 350px);
+    opacity: 1;
+  }
+  100% {
+    transform: translate(0px, 0px);
+    opacity: 1;
+  }
+}
+@keyframes dash {
+  0% {
+    fill-opacity: 0;
+    stroke-dashoffset: 1000;
+  }
+  10% {
+    fill-opacity: 1;
+  }
+  100% {
+    fill-opacity: 1;
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes circle {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

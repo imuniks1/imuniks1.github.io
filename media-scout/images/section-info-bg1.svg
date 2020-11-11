@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="786px" height="392px" viewBox="0 0 786 392" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-7.6%" y="-19.8%" width="115.2%" height="139.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.158873403   0 0 0 0 0.245465861   0 0 0 0 0.290845788  0 0 0 0.094378278 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="640" height="245"></rect>
+        <filter x="-29.6%" y="-134.7%" width="159.1%" height="369.4%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0815262008   0 0 0 0 0.121779031   0 0 0 0 0.152541893  0 0 0 0.140051355 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-38.2%" y="-134.7%" width="176.4%" height="369.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0815262008   0 0 0 0 0.121779031   0 0 0 0 0.152541893  0 0 0 0.140051355 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-38.2%" y="-131.1%" width="176.4%" height="362.2%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0815262008   0 0 0 0 0.121779031   0 0 0 0 0.152541893  0 0 0 0.140051355 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-35.7%" y="-134.7%" width="171.3%" height="369.4%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0815262008   0 0 0 0 0.121779031   0 0 0 0 0.152541893  0 0 0 0.140051355 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-38.8%" y="-134.7%" width="177.6%" height="369.4%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0815262008   0 0 0 0 0.121779031   0 0 0 0 0.152541893  0 0 0 0.140051355 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Updated-Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-53.000000, -1256.000000)">
+            <g id="Group-6" transform="translate(53.000000, 1261.000000)">
+                <g id="Group-5">
+                    <g id="Group-4">
+                        <rect id="Rectangle" fill="#5788FF" x="28" y="22" width="69" height="69"></rect>
+                        <g id="Lancy-Job-Post" filter="url(#filter-1)" transform="translate(54.000000, 56.000000)">
+                            <g id="Screen-Shot-2020-08-15-at-4.24.28-PM">
+                                <mask id="mask-3" fill="white">
+                                    <use xlink:href="#path-2"></use>
+                                </mask>
+                                <use id="Mask" fill="#FFFFFF" xlink:href="#path-2"></use>
+                            </g>
+                        </g>
+                        <g id="US-based" filter="url(#filter-4)" transform="translate(520.000000, 0.000000)">
+                            <rect id="Rectangle" fill="#FBCD00" opacity="0.284060423" x="0" y="0" width="164" height="36" rx="4"></rect>
+                            <text id="Google-Analytics" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#F18000">
+                                <tspan x="39.9726562" y="23">Google Analytics</tspan>
+                            </text>
+                        </g>
+                        <g id="US-based-Copy" filter="url(#filter-5)" transform="translate(223.000000, 0.000000)" fill="#C4F8E2">
+                            <rect id="Rectangle" x="0" y="0" width="127" height="36" rx="4"></rect>
+                        </g>
+                        <g id="Investors" filter="url(#filter-6)" transform="translate(644.000000, 251.000000)">
+                            <rect id="Rectangle" fill="#ECF2FF" x="0" y="0.326530612" width="127" height="36" rx="4"></rect>
+                            <text id="US-based" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#5742FF">
+                                <tspan x="53.5" y="22">Twitter</tspan>
+                            </text>
+                        </g>
+                        <g id="Investors" filter="url(#filter-7)" transform="translate(470.000000, 326.000000)">
+                            <rect id="Rectangle" fill="#C4F8E2" x="0" y="0" width="136" height="36" rx="4"></rect>
+                            <text id="US-based" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#3BD27C">
+                                <tspan x="48.3759766" y="22">Instagram</tspan>
+                            </text>
+                        </g>
+                        <g id="Red-Badges" filter="url(#filter-8)" transform="translate(112.000000, 326.000000)">
+                            <rect id="Rectangle" fill="#FCD5D9" x="0" y="0" width="123" height="36" rx="4"></rect>
+                            <text id="YouTube" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#E43422">
+                                <tspan x="46.0898438" y="22">YouTube</tspan>
+                            </text>
+                        </g>
+                        <circle id="Oval" fill="#D9E4FF" cx="6" cy="142" r="6"></circle>
+                    </g>
+                    <polyline id="Path-2" stroke="#41A5F5" stroke-width="4" points="104 251 172.557196 210.955056 246.308118 210.955056 316.942804 207 385.5 223.191011 457.212928 223.402219 527.855513 214.953918 598.498099 227.907979 667 229.247191"></polyline>
+                    <polyline id="Path-2" stroke="#009688" stroke-width="4" points="104 250.5 171.398524 250.5 243.98155 248.5 316.564576 243 383.9631 234 457.583026 233 526.01845 232 596.527675 204.5 666 187"></polyline>
+                    <polyline id="Path-2" stroke="#FBCD00" stroke-width="4" points="104 251 172.557196 134 246.308118 134 315.904059 251 385.5 169.75 457.212928 170.367089 527.855513 145.683544 598.498099 183.531646 667 121"></polyline>
+                    <polyline id="Path-2" stroke="#E43422" stroke-width="3" transform="translate(384.500000, 161.500000) scale(-1, -1) translate(-384.500000, -161.500000) " points="102 251 169.758303 209.692308 241.686347 106.423077 313.380537 142.703077 384.5 137.403846 454.343173 106.423077 526.271218 137.403846 597.156827 72 667 72"></polyline>
+                    <g id="Data/Graph-picker/Blue" transform="translate(168.000000, 207.000000)" fill="#161829" stroke="#41A5F5" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Blue-Copy-13" transform="translate(238.000000, 182.000000)" fill="#161829" stroke="#E43422" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Blue-Copy-20" transform="translate(238.000000, 244.000000)" fill="#161829" stroke="#009688" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Blue-Copy-21" transform="translate(379.000000, 230.000000)" fill="#161829" stroke="#009688" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Blue-Copy-22" transform="translate(523.000000, 228.000000)" fill="#161829" stroke="#009688" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Blue-Copy-23" transform="translate(594.000000, 200.000000)" fill="#161829" stroke="#009688" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Blue-Copy-14" transform="translate(311.000000, 212.000000)" fill="#161829" stroke="#E43422" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Blue-Copy-15" transform="translate(381.000000, 182.000000)" fill="#161829" stroke="#E43422" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Blue-Copy-16" transform="translate(452.000000, 176.000000)" fill="#161829" stroke="#E43422" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Blue-Copy-17" transform="translate(594.000000, 109.000000)" fill="#161829" stroke="#E43422" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Lime" transform="translate(168.000000, 130.000000)" fill="#161829" stroke="#FBCD00" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Lime" transform="translate(242.000000, 130.000000)" fill="#161829" stroke="#FBCD00" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Lime" transform="translate(312.000000, 246.000000)" fill="#161829" stroke="#FBCD00" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Lime" transform="translate(381.000000, 166.000000)" fill="#161829" stroke="#FBCD00" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Lime" transform="translate(453.000000, 166.000000)" fill="#161829" stroke="#FBCD00" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Lime" transform="translate(523.000000, 142.000000)" fill="#161829" stroke="#FBCD00" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Lime" transform="translate(594.000000, 179.000000)" fill="#161829" stroke="#FBCD00" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Blue" transform="translate(313.000000, 203.000000)" fill="#161829" stroke="#41A5F5" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Blue" transform="translate(382.000000, 219.000000)" fill="#161829" stroke="#41A5F5" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Blue" transform="translate(523.000000, 211.000000)" fill="#161829" stroke="#41A5F5" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                    <g id="Data/Graph-picker/Blue" transform="translate(596.000000, 224.000000)" fill="#161829" stroke="#41A5F5" stroke-width="2">
+                        <circle id="Oval" cx="4.5" cy="4.5" r="3.5"></circle>
+                    </g>
+                </g>
+                <path d="M247,8 C252.522847,8 257,12.4771525 257,18 C257,23.5228475 252.522847,28 247,28 C241.477153,28 237,23.5228475 237,18 C237,12.4771525 241.477153,8 247,8 Z M247,10 C242.581722,10 239,13.581722 239,18 C239,22.418278 242.581722,26 247,26 C251.418278,26 255,22.418278 255,18 C255,13.581722 251.418278,10 247,10 Z M251.324005,14.6950604 C251.700122,15.0817853 251.699467,15.6978172 251.322527,16.0837409 L245.543999,22 L245.543999,22 L242.675995,19.0511086 C242.299651,18.6641502 242.299651,18.0479464 242.675995,17.6609879 C243.039158,17.2875822 243.636265,17.279279 244.009671,17.6424423 C244.0159,17.6485003 244.022045,17.6546442 244.028104,17.660872 L245.543999,19.2189855 L245.543999,19.2189855 L249.970094,14.6931869 C250.335236,14.3198192 250.933917,14.3131513 251.307285,14.6782937 C251.312928,14.6838126 251.318502,14.6894019 251.324005,14.6950604 Z" id="color-copy-6" fill="#1FD286"></path>
+                <path d="M491,334 C496.522847,334 501,338.477153 501,344 C501,349.522847 496.522847,354 491,354 C485.477153,354 481,349.522847 481,344 C481,338.477153 485.477153,334 491,334 Z M491,336 C486.581722,336 483,339.581722 483,344 C483,348.418278 486.581722,352 491,352 C495.418278,352 499,348.418278 499,344 C499,339.581722 495.418278,336 491,336 Z M495.324005,340.69506 C495.700122,341.081785 495.699467,341.697817 495.322527,342.083741 L489.543999,348 L489.543999,348 L486.675995,345.051109 C486.299651,344.66415 486.299651,344.047946 486.675995,343.660988 C487.039158,343.287582 487.636265,343.279279 488.009671,343.642442 C488.0159,343.6485 488.022045,343.654644 488.028104,343.660872 L489.543999,345.218986 L489.543999,345.218986 L493.970094,340.693187 C494.335236,340.319819 494.933917,340.313151 495.307285,340.678294 C495.312928,340.683813 495.318502,340.689402 495.324005,340.69506 Z" id="color-copy-7" fill="#1FD286"></path>
+                <path d="M136,334 C141.522847,334 146,338.477153 146,344 C146,349.522847 141.522847,354 136,354 C130.477153,354 126,349.522847 126,344 C126,338.477153 130.477153,334 136,334 Z M136,336 C131.581722,336 128,339.581722 128,344 C128,348.418278 131.581722,352 136,352 C140.418278,352 144,348.418278 144,344 C144,339.581722 140.418278,336 136,336 Z M140.324005,340.69506 C140.700122,341.081785 140.699467,341.697817 140.322527,342.083741 L134.543999,348 L134.543999,348 L131.675995,345.051109 C131.299651,344.66415 131.299651,344.047946 131.675995,343.660988 C132.039158,343.287582 132.636265,343.279279 133.009671,343.642442 C133.0159,343.6485 133.022045,343.654644 133.028104,343.660872 L134.543999,345.218986 L134.543999,345.218986 L138.970094,340.693187 C139.335236,340.319819 139.933917,340.313151 140.307285,340.678294 C140.312928,340.683813 140.318502,340.689402 140.324005,340.69506 Z" id="color-copy-5" fill="#E43422"></path>
+                <path d="M539,9 C544.522847,9 549,13.4771525 549,19 C549,24.5228475 544.522847,29 539,29 C533.477153,29 529,24.5228475 529,19 C529,13.4771525 533.477153,9 539,9 Z M539,11 C534.581722,11 531,14.581722 531,19 C531,23.418278 534.581722,27 539,27 C543.418278,27 547,23.418278 547,19 C547,14.581722 543.418278,11 539,11 Z M543.324005,15.6950604 C543.700122,16.0817853 543.699467,16.6978172 543.322527,17.0837409 L537.543999,23 L537.543999,23 L534.675995,20.0511086 C534.299651,19.6641502 534.299651,19.0479464 534.675995,18.6609879 C535.039158,18.2875822 535.636265,18.279279 536.009671,18.6424423 C536.0159,18.6485003 536.022045,18.6546442 536.028104,18.660872 L537.543999,20.2189855 L537.543999,20.2189855 L541.970094,15.6931869 C542.335236,15.3198192 542.933917,15.3131513 543.307285,15.6782937 C543.312928,15.6838126 543.318502,15.6894019 543.324005,15.6950604 Z" id="color-copy-2" fill="#F18400"></path>
+                <path d="M666,260 C671.522847,260 676,264.477153 676,270 C676,275.522847 671.522847,280 666,280 C660.477153,280 656,275.522847 656,270 C656,264.477153 660.477153,260 666,260 Z M666,262 C661.581722,262 658,265.581722 658,270 C658,274.418278 661.581722,278 666,278 C670.418278,278 674,274.418278 674,270 C674,265.581722 670.418278,262 666,262 Z M670.324005,266.69506 C670.700122,267.081785 670.699467,267.697817 670.322527,268.083741 L664.543999,274 L664.543999,274 L661.675995,271.051109 C661.299651,270.66415 661.299651,270.047946 661.675995,269.660988 C662.039158,269.287582 662.636265,269.279279 663.009671,269.642442 C663.0159,269.6485 663.022045,269.654644 663.028104,269.660872 L664.543999,271.218986 L664.543999,271.218986 L668.970094,266.693187 C669.335236,266.319819 669.933917,266.313151 670.307285,266.678294 C670.312928,266.683813 670.318502,266.689402 670.324005,266.69506 Z" id="color-copy-3" fill="#4B4DFF"></path>
+                <text id="Facebook" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="20" fill="#3BD27C">
+                    <tspan x="267.758789" y="22">Facebook</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

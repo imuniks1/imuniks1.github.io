@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71.016" height="71.016" viewBox="0 0 71.016 71.016">
+  <g id="global--security" transform="translate(-8 -8)">
+    <ellipse id="Эллипс_178" data-name="Эллипс 178" cx="2.5" cy="2" rx="2.5" ry="2" transform="translate(11 23)" fill="none" stroke="#8e8e8e" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <ellipse id="Эллипс_179" data-name="Эллипс 179" cx="2.5" cy="2" rx="2.5" ry="2" transform="translate(55 23)" fill="none" stroke="#8e8e8e" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <circle id="Эллипс_180" data-name="Эллипс 180" cx="2.5" cy="2.5" r="2.5" transform="translate(39 39)" fill="none" stroke="#8e8e8e" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <ellipse id="Эллипс_181" data-name="Эллипс 181" cx="2" cy="2.5" rx="2" ry="2.5" transform="translate(23 55)" fill="none" stroke="#8e8e8e" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Контур_182" data-name="Контур 182" d="M18.228,59.409C21.543,67.863,27.1,73.415,33.4,73.415h4.6M48.581,23C45.266,14.551,39.708,9,33.4,9,23.24,9,15,23.42,15,41.207a52.771,52.771,0,0,0,1.822,13.9m34.986-13.9a52.771,52.771,0,0,0-1.822-13.9M33.4,43.508V73.415M33.4,9V38.907" transform="translate(7.803)" fill="none" stroke="#8e8e8e" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Контур_183" data-name="Контур 183" d="M9,41.207A32.207,32.207,0,0,0,41.207,73.415m2.3-32.207H73.415A32.2,32.2,0,0,0,14.606,23.058m-2.261,3.922A32.025,32.025,0,0,0,9,41.207H38.907m20.7-16.1h9.494m-53.2,0H55.01M27.4,57.311h18.4m-32.5,0H22.8m34.5,2.3V52.717a6.908,6.908,0,1,1,13.817,0v6.895m-20.712,0H78.016v18.4H50.409Z" fill="none" stroke="#8e8e8e" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

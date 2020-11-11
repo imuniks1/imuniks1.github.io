@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="24" viewBox="0 0 28 24">
+  <g id="Сгруппировать_690" data-name="Сгруппировать 690" transform="translate(-2 -4)">
+    <rect id="Прямоугольник_732" data-name="Прямоугольник 732" width="28" height="2" transform="translate(2 22)" fill="#6b6bdb"/>
+    <rect id="Прямоугольник_733" data-name="Прямоугольник 733" width="28" height="2" transform="translate(2 26)" fill="#6b6bdb"/>
+    <path id="Контур_299" data-name="Контур 299" d="M24,10a2,2,0,1,0,2,2A2,2,0,0,0,24,10Z" fill="#6b6bdb"/>
+    <path id="Контур_300" data-name="Контур 300" d="M16,16a4,4,0,1,1,4-4,4,4,0,0,1-4,4Zm0-6a2,2,0,1,0,2,2,2,2,0,0,0-2-2Z" fill="#6b6bdb"/>
+    <path id="Контур_301" data-name="Контур 301" d="M8,10a2,2,0,1,0,2,2A2,2,0,0,0,8,10Z" fill="#6b6bdb"/>
+    <path id="Контур_302" data-name="Контур 302" d="M28,20H4a2.005,2.005,0,0,1-2-2V6A2.005,2.005,0,0,1,4,4H28a2.005,2.005,0,0,1,2,2V18a2,2,0,0,1-2,2ZM28,6H4V18H28Z" fill="#6b6bdb"/>
+  </g>
+</svg>
