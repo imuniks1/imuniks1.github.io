@@ -1,5 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b7a48a5-5c58-4505-9652-7edd8400f338" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /.idea/Задание.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /css/all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /css/media.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/OpenSans-SemiBold/opensans-semibold-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/OpenSans-SemiBold/opensans-semibold-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/OpenSans-SemiBold/opensans-semibold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/OpenSans-SemiBold/opensans-semibold-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayBlack/RalewayBlack.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayBlack/RalewayBlack.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayBlack/RalewayBlack.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayBold/RalewayBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayBold/RalewayBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayBold/RalewayBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayExtraBold/RalewayExtraBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayExtraBold/RalewayExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayExtraBold/RalewayExtraBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayExtraLight/RalewayExtraLight.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayExtraLight/RalewayExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayExtraLight/RalewayExtraLight.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayLight/RalewayLight.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayLight/RalewayLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayLight/RalewayLight.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayMedium/RalewayMedium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayMedium/RalewayMedium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayMedium/RalewayMedium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayRegular/RalewayRegular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayRegular/RalewayRegular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayRegular/RalewayRegular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewaySemiBold/RalewaySemiBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewaySemiBold/RalewaySemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewaySemiBold/RalewaySemiBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayThin/RalewayThin.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayThin/RalewayThin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/RalewayThin/RalewayThin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /fonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /images/bg-header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /images/footer-background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /images/icon-section-mentor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /images/img-section-mentor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /images/owl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /js/all.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS /js/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/index.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -8,5 +89,57 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b7a48a5-5c58-4505-9652-7edd8400f338" name="Default Changelist" comment="" />
+      <created>1605098547566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605098547566</updated>
+      <workItem from="1605098548728" duration="689000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1605098600786</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605098600786</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
