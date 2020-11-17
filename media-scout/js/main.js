@@ -9,5 +9,15 @@ $(document).ready(function() {
             $('body').css('overflow', 'visible');
         }
     });
+    $(window).on('scroll', function () {
+        let animate = $('.will-animate');
+        animate.each(function (elem) {
+            let offset = $(this).offset().top - 600;
+            let scroll = $(window).scrollTop();
+            if(scroll > offset) {
+                $(this).addClass('animate');
+            }
+        })
+    })
 });
 
