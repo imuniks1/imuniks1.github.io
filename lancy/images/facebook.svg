@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="16px" viewBox="0 0 10 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icon/social/facebook_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.4,1 L9.4,2.2 C9.4,2.75228475 8.95228475,3.2 8.4,3.2 L7,3.2 L7,3.2 C6.448,3.2 6.2,3.848 6.2,4.4 L6.2,6.4 L7.6,6.4 C8.15228475,6.4 8.6,6.84771525 8.6,7.4 L8.6,8.6 C8.6,9.15228475 8.15228475,9.6 7.6,9.6 L6.2,9.6 L6.2,9.6 L6.2,15 C6.2,15.5522847 5.75228475,16 5.2,16 L4,16 C3.44771525,16 3,15.5522847 3,15 L3,9.6 L3,9.6 L1.6,9.6 C1.04771525,9.6 0.6,9.15228475 0.6,8.6 L0.6,7.4 C0.6,6.84771525 1.04771525,6.4 1.6,6.4 L3,6.4 L3,6.4 L3,3.2 C3,1.4326888 4.4326888,0 6.2,0 L8.4,0 C8.95228475,3.89074334e-16 9.4,0.44771525 9.4,1 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-1030.000000, -131.000000)">
+            <g id="Legal-Stuff-Copy">
+                <g transform="translate(1027.000000, 55.000000)">
+                    <g id="icon/social/facebook_24px" transform="translate(3.000000, 76.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use fill="#37474F" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
