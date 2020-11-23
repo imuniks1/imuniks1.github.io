@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b7a48a5-5c58-4505-9652-7edd8400f338" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/planet/dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/planet/dashboard.js" afterDir="false" />
+    <list default="true" id="3b7a48a5-5c58-4505-9652-7edd8400f338" name="Default Changelist" comment="add planet project">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lancy/.idea/Lancy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media-scout/.idea/media-scout.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uvik/.idea/uvik.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +33,7 @@
   <component name="ProjectId" id="1k92aDfmgvt6h2InIfEBukadq4U" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/imuniks/Work/kaiiax/15.08" />
   </component>
@@ -57,7 +62,7 @@
       <workItem from="1605098548728" duration="2464000" />
       <workItem from="1605608952720" duration="1128000" />
       <workItem from="1606129370557" duration="733000" />
-      <workItem from="1606130754880" duration="49000" />
+      <workItem from="1606130754880" duration="846000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1605098600786</created>
@@ -150,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606130775320</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add planet project">
+      <created>1606130812134</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1606130812134</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

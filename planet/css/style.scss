@@ -1222,10 +1222,8 @@ button {
       &:last-child {
         width: 3%;
       }
-
       & > span {
         position: relative;
-
         &:after {
           @include content(7px, 10px, absolute);
           background: url("../images/arrow-second.svg") 50% 50% no-repeat;

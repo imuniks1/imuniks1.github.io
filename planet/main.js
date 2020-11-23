@@ -149,38 +149,24 @@ linkQuestion.forEach(function (elem, i) {
     });
 });
 
-// const questionOptions = document.querySelectorAll('.box-quiz input[type="radio"]');
-// questionOptions.forEach((radio) => {
-//     radio.addEventListener('change', (event) => {
-//         (async() => {
-//             const rawResponse = await fetch('/answer', {
-//                 method: 'POST',
-//                 headers: {
-//                     'Accept': 'application/json',
-//                     'Content-Type': 'application/json; charset=utf-8'
-//                 },
-//                 body: JSON.stringify({
-//                     question: 1, // event.target.name,
-//                     answer: 1, // event.target.id,
-//                 })
-//             });
-//             return await rawResponse.json();
-//         })()
-//             .then(data => {
-//                 console.log('data', data)
-//             })
-//             .then(error => {
-//                 if (error) {
-//                     console.error('error', error)
-//                 }
-//             });
-//     });
-// });
-
 let inputQuiz = document.querySelectorAll('.box-quiz__input');
 
 inputQuiz.forEach(function (elem, i) {
     inputQuiz[i].addEventListener('change', function () {
         this.closest('.box-question__content').classList.add('active');
     });
+});
+
+// burger
+const burger = document.querySelector('.burger');
+const menuDash = document.querySelector('.dashboard-aside-wrap');
+burger.addEventListener('click', function () {
+    if (!this.classList.contains('active')) {
+        this.classList.add('active');
+        menuDash.classList.add('active');
+    }
+    else {
+        this.classList.remove('active');
+        menuDash.classList.remove('active');
+    }
 });

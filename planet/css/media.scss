@@ -101,13 +101,36 @@
       }
       &-aside-wrap {
         width: 100%;
-        left: -90vw;
+        left: -100vw;
         z-index: 100;
-        &.drap {
+        transition: left .3s;
+        &.active {
           left: 0;
         }
       }
     }
+  .burger {
+    width: 40px;
+    height: 40px;
+    & > span {
+      width: 30px;
+      height: 2px;
+      border-radius: 4px;
+      background: #1B2D4C;
+      margin-bottom: 6px;
+      display: block;
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+  .bell {
+    display: flex;
+    margin-top: 20px;
+  }
+  .header_set {
+    margin-left: 0;
+  }
 }
 
 @media (max-width: 599.98px) {

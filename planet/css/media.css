@@ -73,9 +73,30 @@
     margin-left: 0; }
   .dashboard-aside-wrap {
     width: 100%;
-    left: -90vw;
-    z-index: 100; }
-    .dashboard-aside-wrap.drap {
-      left: 0; } }
+    left: -100vw;
+    z-index: 100;
+    transition: left .3s; }
+    .dashboard-aside-wrap.active {
+      left: 0; }
+
+  .burger {
+    width: 40px;
+    height: 40px; }
+    .burger > span {
+      width: 30px;
+      height: 2px;
+      border-radius: 4px;
+      background: #1B2D4C;
+      margin-bottom: 6px;
+      display: block; }
+      .burger > span:last-child {
+        margin-bottom: 0; }
+
+  .bell {
+    display: flex;
+    margin-top: 20px; }
+
+  .header_set {
+    margin-left: 0; } }
 
 /*# sourceMappingURL=media.css.map */
