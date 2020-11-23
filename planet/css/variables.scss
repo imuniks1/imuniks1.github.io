@@ -1,0 +1,147 @@
+$color-white: #ffffff;
+$color-black: #000000;
+$std-black: #333333;
+$color-red: #9d0017;
+
+%absoluteCenterTop {
+  top: 50%;
+  transform: translate(0, -50%);
+}
+%absoluteCenterLeft {
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+%block {
+  display: block !important;
+}
+%transitionStd {
+  //transform: translateZ(0);
+  transition: all ease .5s;
+}
+%hoverOpacity {
+  opacity: .8;
+}
+%marginAuto {
+  margin: 0 auto;
+}
+
+// mixins
+@mixin content($width, $height, $position) {
+  content: '';
+  display: block;
+  position: $position;
+  width: $width;
+  height: $height;
+}
+@mixin btnStd($width, $height) {
+  width: $width;
+  height: $height;
+  background: #3D567C;
+  box-shadow: 4px 4px 32px rgba(0, 0, 0, 0.06);
+  border-radius: 5px;
+  font-weight: bold;
+  line-height: $height;
+  font-size: 16px;
+  color: $color-white;
+  display: block;
+  text-transform: uppercase;
+}
+// animation-top
+$value: 0;
+.animation-slide-top {
+  opacity: 0;
+  animation: animateSlideTop 1s ease-in-out forwards;
+  @for $i from 0 through 10 {
+    &—delay-#{$value} {
+      animation-delay: $value + ms
+    }
+    $value: $value + 200;
+  }
+}
+@keyframes animateSlideTop {
+  0% {
+    opacity: 0;
+    transform: translateY(-60px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+// animation-bottom
+.animation-slide-bottom {
+  opacity: 0;
+  animation: animateSlideBottom 1s ease-in-out forwards;
+  @for $i from 0 through 10 {
+    &—delay-#{$value} {
+      animation-delay: $value + ms
+    }
+    $value: $value + 200;
+  }
+}
+@keyframes animateSlideBottom {
+  0% {
+    opacity: 0;
+    transform: translateY(60px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+// animation-slide-left
+.animation-slide-left {
+  opacity: 0;
+  animation: animateSlideLeft 1s ease-in-out forwards;
+  @for $i from 0 through 10 {
+    &—delay-#{$value} {
+      animation-delay: $value + ms
+    }
+    $value: $value + 200;
+  }
+}
+@keyframes animateSlideLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-60px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0px);
+  }
+}
+
+// animation-slide-right
+.animation-slide-right {
+  opacity: 0;
+  animation: animateSlideRight 1s ease-in-out forwards;
+  @for $i from 0 through 10 {
+    &—delay-#{$value} {
+      animation-delay: $value + ms
+    }
+    $value: $value + 200;
+  }
+}
+@keyframes animateSlideRight {
+  0% {
+    opacity: 0;
+    transform: translateX(60px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0px);
+  }
+}
+//@keyframes slideLeft {
+//  0% {
+//
+//  }
+//  50% {
+//
+//  }
+//  100% {
+//
+//  }
+//}
