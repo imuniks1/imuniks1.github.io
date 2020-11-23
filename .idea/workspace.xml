@@ -30,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../imuniks/Work/kaiiax/15.08" />
+    <property name="last_opened_file_path" value="$USER_HOME$/imuniks/Work/kaiiax/15.08" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -56,6 +56,7 @@
       <updated>1605098547566</updated>
       <workItem from="1605098548728" duration="2464000" />
       <workItem from="1605608952720" duration="1128000" />
+      <workItem from="1606129370557" duration="502000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1605098600786</created>
@@ -113,7 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605609741298</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add planet project">
+      <created>1606129399555</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606129399555</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add planet project">
+      <created>1606129461272</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606129461272</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +152,7 @@
     <MESSAGE value="new content" />
     <MESSAGE value="Deleted node modules" />
     <MESSAGE value="add new projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new projects" />
+    <MESSAGE value="add planet project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add planet project" />
   </component>
 </project>

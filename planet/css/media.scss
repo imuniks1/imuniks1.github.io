@@ -101,6 +101,10 @@
       }
       &-aside-wrap {
         left: -263px;
+        z-index: 100;
+        &.drap {
+          left: 0;
+        }
       }
     }
 }

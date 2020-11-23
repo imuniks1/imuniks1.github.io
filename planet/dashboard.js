@@ -40,9 +40,15 @@ window.onload = () => {
             if (xAbs > 20 || yAbs > 20) {
                 if (xAbs > yAbs) {
                     if (finalPoint.pageX < initialPoint.pageX){
-                        menu.style.left = '-263px'}
+                        menu.style.left = '-263px';
+                        menu.style.zIndex = '99';
+                        window.body.style.overflow = 'hidden';
+                    }
                     else{
-                        menu.style.left = '0'}
+                        menu.style.left = '0';
+                        menu.style.zIndex = '2';
+                        window.body.style.overflow = 'visible';
+                    }
                 }
                 else {
                     if (finalPoint.pageY < initialPoint.pageY){

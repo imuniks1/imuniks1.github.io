@@ -72,6 +72,9 @@
   .dashboard-content {
     margin-left: 0; }
   .dashboard-aside-wrap {
-    left: -263px; } }
+    left: -263px;
+    z-index: 100; }
+    .dashboard-aside-wrap.drap {
+      left: 0; } }
 
 /*# sourceMappingURL=media.css.map */
