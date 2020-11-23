@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b7a48a5-5c58-4505-9652-7edd8400f338" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/media-scout/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/media-scout/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media-scout/css/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/media-scout/css/media.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media-scout/css/media.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/media-scout/css/media.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media-scout/css/media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/media-scout/css/media.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media-scout/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/media-scout/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media-scout/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/media-scout/css/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media-scout/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/media-scout/css/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media-scout/images/about-img1.png" beforeDir="false" afterPath="$PROJECT_DIR$/media-scout/images/about-img1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media-scout/images/about-img1@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/media-scout/images/about-img1@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media-scout/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/media-scout/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media-scout/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/media-scout/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media-scout/plans.html" beforeDir="false" afterPath="$PROJECT_DIR$/media-scout/plans.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media-scout/privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/media-scout/privacy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media-scout/terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/media-scout/terms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/imuniks/Work/kaiiax/15.08" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../imuniks/Work/kaiiax/15.08" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -68,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605098547566</updated>
       <workItem from="1605098548728" duration="2464000" />
-      <workItem from="1605608952720" duration="318000" />
+      <workItem from="1605608952720" duration="1128000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1605098600786</created>
@@ -112,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605609060849</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add new projects">
+      <created>1605609656089</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605609656089</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add new projects">
+      <created>1605609741298</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605609741298</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +136,7 @@
     <MESSAGE value="commit" />
     <MESSAGE value="new content" />
     <MESSAGE value="Deleted node modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted node modules" />
+    <MESSAGE value="add new projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new projects" />
   </component>
 </project>
