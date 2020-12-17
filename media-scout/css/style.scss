@@ -370,7 +370,10 @@ h1 {
             }
         }
         &-box-img {
-            margin-top: 238px;
+            margin-top: 180px;
+           & > img {
+               max-width: 500px;
+           }
         }
     }
     &__title {

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b7a48a5-5c58-4505-9652-7edd8400f338" name="Default Changelist" comment="add planet project">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lancy/.idea/Lancy.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/media-scout/.idea/media-scout.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/uvik/.idea/uvik.iml" afterDir="false" />
@@ -35,7 +34,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/imuniks/Work/kaiiax/15.08" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -62,7 +61,7 @@
       <workItem from="1605098548728" duration="2464000" />
       <workItem from="1605608952720" duration="1128000" />
       <workItem from="1606129370557" duration="733000" />
-      <workItem from="1606130754880" duration="846000" />
+      <workItem from="1606130754880" duration="1390000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1605098600786</created>
@@ -162,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606130812134</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add planet project">
+      <created>1606132482640</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1606132482640</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
